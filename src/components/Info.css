@@ -1,0 +1,39 @@
+.profileImg {
+    width: 100%;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h3 {
+    margin-top: 21px;
+    margin-bottom: 7px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #fff
+}
+
+.text h4 {
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #F3BF99;
+    margin-bottom: 9px
+}
+
+.text small {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #F5F5F5;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
